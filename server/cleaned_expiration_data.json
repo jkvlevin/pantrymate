@@ -1,0 +1,1714 @@
+{
+  "default": {
+    "bananas": {
+      "item": "bananas",
+      "pantry": [7.0, "7 days"],
+      "refrigerator": [45.0, "45 days"],
+      "freezer": ""
+    },
+    "sliced cheese": {
+      "item": "sliced cheese",
+      "pantry": "",
+      "refrigerator": [24.0, "24 days"],
+      "freezer": ""
+    },
+    "dried mango": {
+      "item": "dried mango",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": [547.5, "1.5 years"],
+      "freezer": ""
+    },
+    "peaches": {
+      "item": "peaches",
+      "pantry": [5.0, "5 days"],
+      "refrigerator": [9.0, "9 days"],
+      "freezer": ""
+    },
+    "barley": {
+      "item": "barley",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "fruit juice canned": {
+      "item": "fruit juice canned",
+      "pantry": [240.0, "240 days"],
+      "refrigerator": [240.0, "240 days"],
+      "freezer": ""
+    },
+    "pork roast ": {
+      "item": "pork roast ",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [150.0, "150 days"]
+    },
+    "maraschino cherries": {
+      "item": "maraschino cherries",
+      "pantry": [1277.5, "3.5 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "marshmallows": {
+      "item": "marshmallows",
+      "pantry": [90.0, "90 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "margarine": {
+      "item": "margarine",
+      "pantry": "",
+      "refrigerator": [150.0, "150 days"],
+      "freezer": [365.0, "(1.0, 1) years"]
+    },
+    "dried cured meat": {
+      "item": "dried cured meat",
+      "pantry": [11.0, "11 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "coffee creamers": {
+      "item": "coffee creamers",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "bell peppers": {
+      "item": "bell peppers",
+      "pantry": "",
+      "refrigerator": [10.0, "10 days"],
+      "freezer": ""
+    },
+    "ham": {
+      "item": "ham",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "bagels": {
+      "item": "bagels",
+      "pantry": [7.0, "7 days"],
+      "refrigerator": "",
+      "freezer": [180.0, "180 days"]
+    },
+    "cheese cream": {
+      "item": "cheese cream",
+      "pantry": "",
+      "refrigerator": [30.0, "30 days"],
+      "freezer": ""
+    },
+    "pistachio nuts": {
+      "item": "pistachio nuts",
+      "pantry": [120.0, "120 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "power bars": {
+      "item": "power bars",
+      "pantry": [330.0, "330 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "celery": {
+      "item": "celery",
+      "pantry": "",
+      "refrigerator": [10.0, "10 days"],
+      "freezer": ""
+    },
+    "cashews": {
+      "item": "cashews",
+      "pantry": [120.0, "120 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "orange": {
+      "item": "orange",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "peanuts": {
+      "item": "peanuts",
+      "pantry": [120.0, "120 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "rice": {
+      "item": "rice",
+      "pantry": [240.0, "240 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "sauce": {
+      "item": "sauce",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": [365.0, "1.0 years"],
+      "freezer": ""
+    },
+    "dried cranberries": {
+      "item": "dried cranberries",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": [547.5, "1.5 years"],
+      "freezer": ""
+    },
+    "cottage cheese": {
+      "item": "cottage cheese",
+      "pantry": "",
+      "refrigerator": [30.0, "30 days"],
+      "freezer": ""
+    },
+    "quinoa": {
+      "item": "quinoa",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "yeast": {
+      "item": "yeast",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": [1825.0, "5.0 years"],
+      "freezer": ""
+    },
+    "flour": {
+      "item": "flour",
+      "pantry": [547.5, "1.5 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "chicken tenders": {
+      "item": "chicken tenders",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "swordfish": {
+      "item": "swordfish",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "milk powdered": {
+      "item": "milk powdered",
+      "pantry": [7300.0, "20.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "jelly ": {
+      "item": "jelly ",
+      "pantry": "",
+      "refrigerator": [365.0, "1.0 years"],
+      "freezer": ""
+    },
+    "chocolate syrup": {
+      "item": "chocolate syrup",
+      "pantry": [180.0, "180 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "fake meat": {
+      "item": "fake meat",
+      "pantry": "",
+      "refrigerator": [90.0, "90 days"],
+      "freezer": [150.0, "150 days"]
+    },
+    "molasses": {
+      "item": "molasses",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "dried dates": {
+      "item": "dried dates",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": [547.5, "1.5 years"],
+      "freezer": ""
+    },
+    "pies": {
+      "item": "pies",
+      "pantry": [2.0, "2 days"],
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [60.0, "60 days"]
+    },
+    "bread": {
+      "item": "bread",
+      "pantry": [7.0, "7 days"],
+      "refrigerator": [10.0, "10 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "maple syrup": {
+      "item": "maple syrup",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": [7300.0, "(20.0, 1) years"]
+    },
+    "red wine vinegar": {
+      "item": "red wine vinegar",
+      "pantry": [1095.0, "3.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "meat": {
+      "item": "meat",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "asparagus": {
+      "item": "asparagus",
+      "pantry": "",
+      "refrigerator": [6.0, "6 days"],
+      "freezer": ""
+    },
+    "potatoes": {
+      "item": "potatoes",
+      "pantry": [75.0, "75 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "roasts": {
+      "item": "roasts",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [150.0, "150 days"]
+    },
+    "tuna canned": {
+      "item": "tuna canned",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "juice juice bottled": {
+      "item": "juice juice bottled",
+      "pantry": [75.0, "75 days"],
+      "refrigerator": [75.0, "75 days"],
+      "freezer": ""
+    },
+    "whipped cream": {
+      "item": "whipped cream",
+      "pantry": "",
+      "refrigerator": [30.0, "30 days"],
+      "freezer": ""
+    },
+    "bread crumbs": {
+      "item": "bread crumbs",
+      "pantry": [165.0, "165 days"],
+      "refrigerator": "",
+      "freezer": [210.0, "210 days"]
+    },
+    "steak": {
+      "item": "steak",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "bouillon cubes": {
+      "item": "bouillon cubes",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "pork": {
+      "item": "pork",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "gravy canned": {
+      "item": "gravy canned",
+      "pantry": [1460.0, "4.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "tea": {
+      "item": "tea",
+      "pantry": [540.0, "1.5 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "fine wine": {
+      "item": "fine wine",
+      "pantry": [7300.0, "20.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "sugars": {
+      "item": "sugars",
+      "pantry": "none",
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "frostings": {
+      "item": "frostings",
+      "pantry": [90.0, "90 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "millet": {
+      "item": "millet",
+      "pantry": [120.0, "120 days"],
+      "refrigerator": [180.0, "180 days"],
+      "freezer": ""
+    },
+    "capers": {
+      "item": "capers",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": [365.0, "1.0 years"],
+      "freezer": ""
+    },
+    "spelt": {
+      "item": "spelt",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "almonds": {
+      "item": "almonds",
+      "pantry": [120.0, "120 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "lobster": {
+      "item": "lobster",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "wheat": {
+      "item": "wheat",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "pickles": {
+      "item": "pickles",
+      "pantry": [540.0, "1.5 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cantalope": {
+      "item": "cantalope",
+      "pantry": [7.0, "7 days"],
+      "refrigerator": [240.0, "240 days"],
+      "freezer": ""
+    },
+    "chicken": {
+      "item": "chicken",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "protein powder": {
+      "item": "protein powder",
+      "pantry": [3650.0, "10.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "lentils": {
+      "item": "lentils",
+      "pantry": [7300.0, "20.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "corn grain": {
+      "item": "corn grain",
+      "pantry": [1095.0, "3.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "sausage": {
+      "item": "sausage",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "coffee ground ": {
+      "item": "coffee ground ",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "baking soda": {
+      "item": "baking soda",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "worcestershire sauce": {
+      "item": "worcestershire sauce",
+      "pantry": [1825.0, "5.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "milk": {
+      "item": "milk",
+      "pantry": "",
+      "refrigerator": [90.0, "90 days"],
+      "freezer": ""
+    },
+    "ground pork": {
+      "item": "ground pork",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "granola": {
+      "item": "granola",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "protein bars": {
+      "item": "protein bars",
+      "pantry": [330.0, "330 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "grits": {
+      "item": "grits",
+      "pantry": [360.0, "360 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cookies packaged": {
+      "item": "cookies packaged",
+      "pantry": [60.0, "60 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "yogurt": {
+      "item": "yogurt",
+      "pantry": "",
+      "refrigerator": [17.0, "17 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "scallops": {
+      "item": "scallops",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "croutons": {
+      "item": "croutons",
+      "pantry": [180.0, "180 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cured or smoked bacon ": {
+      "item": "cured or smoked bacon ",
+      "pantry": "",
+      "refrigerator": [7.0, "7 days"],
+      "freezer": [30.0, "30 days"]
+    },
+    "cocoa mix": {
+      "item": "cocoa mix",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "dried figs": {
+      "item": "dried figs",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": [547.5, "1.5 years"],
+      "freezer": ""
+    },
+    "cocoa powder": {
+      "item": "cocoa powder",
+      "pantry": [3650.0, "10.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "pear": {
+      "item": "pear",
+      "pantry": [5.0, "5 days"],
+      "refrigerator": [9.0, "9 days"],
+      "freezer": ""
+    },
+    "corn": {
+      "item": "corn",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": ""
+    },
+    "sole": {
+      "item": "sole",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "balsamic vinegar": {
+      "item": "balsamic vinegar",
+      "pantry": [1095.0, "3.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "gelatin": {
+      "item": "gelatin",
+      "pantry": [540.0, "1.5 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "walnuts": {
+      "item": "walnuts",
+      "pantry": [120.0, "120 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "salami": {
+      "item": "salami",
+      "pantry": "",
+      "refrigerator": "24",
+      "freezer": [75.0, "75 days"]
+    },
+    "white wine vinegar": {
+      "item": "white wine vinegar",
+      "pantry": [1095.0, "3.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "grapes": {
+      "item": "grapes",
+      "pantry": [4.0, "4 days"],
+      "refrigerator": [10.0, "10 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "meat substitute": {
+      "item": "meat substitute",
+      "pantry": "",
+      "refrigerator": [90.0, "90 days"],
+      "freezer": [150.0, "150 days"]
+    },
+    "barbecue sauce": {
+      "item": "barbecue sauce",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": [180.0, "180 days"],
+      "freezer": ""
+    },
+    "flaxseed": {
+      "item": "flaxseed",
+      "pantry": [90.0, "90 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "shellfish": {
+      "item": "shellfish",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "tabasco": {
+      "item": "tabasco",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": [1460.0, "4.0 years"],
+      "freezer": " "
+    },
+    "vinegar": {
+      "item": "vinegar",
+      "pantry": [1095.0, "3.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "toaster pastries": {
+      "item": "toaster pastries",
+      "pantry": [75.0, "75 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cornstarch": {
+      "item": "cornstarch",
+      "pantry": [540.0, "1.5 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "plum": {
+      "item": "plum",
+      "pantry": [5.0, "5 days"],
+      "refrigerator": [9.0, "9 days"],
+      "freezer": ""
+    },
+    "jam": {
+      "item": "jam",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "shrimp": {
+      "item": "shrimp",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "french toast": {
+      "item": "french toast",
+      "pantry": "",
+      "refrigerator": [6.0, "6 days"],
+      "freezer": [60.0, "60 days"]
+    },
+    "grain": {
+      "item": "grain",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cod": {
+      "item": "cod",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "fruit juice concentrates ": {
+      "item": "fruit juice concentrates ",
+      "pantry": "",
+      "refrigerator": "",
+      "freezer": [360.0, "360 days"]
+    },
+    "buckwheat": {
+      "item": "buckwheat",
+      "pantry": [75.0, "75 days"],
+      "refrigerator": [180.0, "180 days"],
+      "freezer": ""
+    },
+    "popcorn": {
+      "item": "popcorn",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "peanut butter": {
+      "item": "peanut butter",
+      "pantry": [240.0, "240 days"],
+      "refrigerator": [240.0, "240 days"],
+      "freezer": ""
+    },
+    "pastries": {
+      "item": "pastries",
+      "pantry": [2.0, "2 days"],
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [60.0, "60 days"]
+    },
+    "cheese": {
+      "item": "cheese",
+      "pantry": "",
+      "refrigerator": [60.0, "60 days"],
+      "freezer": ""
+    },
+    "hazelnut oil": {
+      "item": "hazelnut oil",
+      "pantry": [90.0, "90 days"],
+      "refrigerator": [330.0, "330 days"],
+      "freezer": ""
+    },
+    "homemade cookies": {
+      "item": "homemade cookies",
+      "pantry": [17.0, "17 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "doughnuts": {
+      "item": "doughnuts",
+      "pantry": [4.5, "4 days"],
+      "refrigerator": "",
+      "freezer": [90.0, "90 days"]
+    },
+    "hard boiled eggs": {
+      "item": "hard boiled eggs",
+      "pantry": "",
+      "refrigerator": [7.0, "7 days"],
+      "freezer": ""
+    },
+    "mushrooms": {
+      "item": "mushrooms",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": ""
+    },
+    "lettuce": {
+      "item": "lettuce",
+      "pantry": "",
+      "refrigerator": [10.0, "10 days"],
+      "freezer": ""
+    },
+    "duck": {
+      "item": "duck",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "ketchup": {
+      "item": "ketchup",
+      "pantry": [360.0, "360 days"],
+      "refrigerator": [360.0, "360 days"],
+      "freezer": ""
+    },
+    "parmesan cheese ": {
+      "item": "parmesan cheese ",
+      "pantry": "",
+      "refrigerator": [60.0, "60 days"],
+      "freezer": ""
+    },
+    "beef soup stew": {
+      "item": "beef soup stew",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "half-and-half": {
+      "item": "half-and-half",
+      "pantry": "",
+      "refrigerator": [90.0, "90 days"],
+      "freezer": ""
+    },
+    "lime": {
+      "item": "lime",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "turkey": {
+      "item": "turkey",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "olives": {
+      "item": "olives",
+      "pantry": [1095.0, "3.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "beef": {
+      "item": "beef",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "spinach": {
+      "item": "spinach",
+      "pantry": "",
+      "refrigerator": [5.0, "5 days"],
+      "freezer": ""
+    },
+    "bologna": {
+      "item": "bologna",
+      "pantry": "",
+      "refrigerator": [6.0, "6 days"],
+      "freezer": ""
+    },
+    "ground beef": {
+      "item": "ground beef",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "dried apples": {
+      "item": "dried apples",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": [547.5, "1.5 years"],
+      "freezer": ""
+    },
+    "buttermilk": {
+      "item": "buttermilk",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": ""
+    },
+    "beer": {
+      "item": "beer",
+      "pantry": [120.0, "120 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "grapefruit": {
+      "item": "grapefruit",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "pasta": {
+      "item": "pasta",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "crab": {
+      "item": "crab",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "peppers": {
+      "item": "peppers",
+      "pantry": "",
+      "refrigerator": [10.0, "10 days"],
+      "freezer": ""
+    },
+    "fish": {
+      "item": "fish",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "apples ": {
+      "item": "apples ",
+      "pantry": [10.0, "10 days"],
+      "refrigerator": [14.0, "14 days"],
+      "freezer": ""
+    },
+    "coffee instant ": {
+      "item": "coffee instant ",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "butter": {
+      "item": "butter",
+      "pantry": [45.0, "45 days"],
+      "refrigerator": [240.0, "240 days"],
+      "freezer": [1095.0, "(3.0, 1) years"]
+    },
+    "canned soup": {
+      "item": "canned soup",
+      "pantry": [1460.0, "4.0 years"],
+      "refrigerator": "",
+      "freezer": " "
+    },
+    "bacon": {
+      "item": "bacon",
+      "pantry": "",
+      "refrigerator": [14.0, "14 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "dips": {
+      "item": "dips",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "pancake mix": {
+      "item": "pancake mix",
+      "pantry": [240.0, "240 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "chocolate": {
+      "item": "chocolate",
+      "pantry": [540.0, "1.5 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "strawberries": {
+      "item": "strawberries",
+      "pantry": [1.0, "1 days"],
+      "refrigerator": [7.0, "7 days"],
+      "freezer": [210.0, "210 days"]
+    },
+    "liver": {
+      "item": "liver",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "cereal": {
+      "item": "cereal",
+      "pantry": [240.0, "240 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "hazelnut": {
+      "item": "hazelnut",
+      "pantry": [1095.0, "3.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "casserole": {
+      "item": "casserole",
+      "pantry": [1.0, "1 days"],
+      "refrigerator": [7.0, "7 days"],
+      "freezer": [300.0, "300 days"]
+    },
+    "salad dressings": {
+      "item": "salad dressings",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "salad": {
+      "item": "salad",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": ""
+    },
+    "oats": {
+      "item": "oats",
+      "pantry": [7300.0, "20.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "steak sauce": {
+      "item": "steak sauce",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": [180.0, "180 days"],
+      "freezer": ""
+    },
+    "vanilla extract ": {
+      "item": "vanilla extract ",
+      "pantry": [360.0, "360 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cornmeal": {
+      "item": "cornmeal",
+      "pantry": [547.5, "1.5 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cake": {
+      "item": "cake",
+      "pantry": [2.0, "2 days"],
+      "refrigerator": [60.0, "60 days"],
+      "freezer": [300.0, "300 days"]
+    },
+    "crackers": {
+      "item": "crackers",
+      "pantry": [90.0, "90 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "hot sauce": {
+      "item": "hot sauce",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": [1460.0, "4.0 years"],
+      "freezer": " "
+    },
+    "corned beef": {
+      "item": "corned beef",
+      "pantry": "",
+      "refrigerator": [6.0, "6 days"],
+      "freezer": ""
+    },
+    "melons": {
+      "item": "melons",
+      "pantry": "",
+      "refrigerator": [7.0, "7 days"],
+      "freezer": ""
+    },
+    "hamburger": {
+      "item": "hamburger",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [210.0, "210 days"]
+    },
+    "carrots": {
+      "item": "carrots",
+      "pantry": "",
+      "refrigerator": [28.0, "28 days"],
+      "freezer": ""
+    },
+    "honey": {
+      "item": "honey",
+      "pantry": [3650.0, "10.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "frozen dinners": {
+      "item": "frozen dinners",
+      "pantry": "",
+      "refrigerator": "",
+      "freezer": [450.0, "(1.0, 1) years"]
+    },
+    "pie crust mix": {
+      "item": "pie crust mix",
+      "pantry": [240.0, "240 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "muffin mix": {
+      "item": "muffin mix",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "onions": {
+      "item": "onions",
+      "pantry": [60.0, "60 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "lunch meat": {
+      "item": "lunch meat",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "lamb": {
+      "item": "lamb",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "sandwich": {
+      "item": "sandwich",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": ""
+    },
+    "deli meat": {
+      "item": "deli meat",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "chops": {
+      "item": "chops",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "nuts": {
+      "item": "nuts",
+      "pantry": [120.0, "120 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "dried fruit": {
+      "item": "dried fruit",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": [547.5, "1.5 years"],
+      "freezer": [3650.0, "(10.0, 1) years"]
+    },
+    "baking powder": {
+      "item": "baking powder",
+      "pantry": [540.0, "1.5 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "tomato sauce": {
+      "item": "tomato sauce",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": [365.0, "1.0 years"],
+      "freezer": ""
+    },
+    "ice cream": {
+      "item": "ice cream",
+      "pantry": "",
+      "refrigerator": "",
+      "freezer": [60.0, "60 days"]
+    },
+    "brownie mix": {
+      "item": "brownie mix",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "beans": {
+      "item": "beans",
+      "pantry": [3285.0, "9.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "mayonnaise": {
+      "item": "mayonnaise",
+      "pantry": [90.0, "90 days"],
+      "refrigerator": [360.0, "360 days"],
+      "freezer": ""
+    },
+    "tomatoes": {
+      "item": "tomatoes",
+      "pantry": [6.0, "6 days"],
+      "refrigerator": [10.0, "10 days"],
+      "freezer": ""
+    },
+    "pizza": {
+      "item": "pizza",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "tuna": {
+      "item": "tuna",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "packaged coconut": {
+      "item": "packaged coconut",
+      "pantry": [180.0, "180 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "gravy": {
+      "item": "gravy",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": ""
+    },
+    "oil": {
+      "item": "oil",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "mustard": {
+      "item": "mustard",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "dried apricots": {
+      "item": "dried apricots",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": [547.5, "1.5 years"],
+      "freezer": ""
+    },
+    "eggs": {
+      "item": "eggs",
+      "pantry": "",
+      "refrigerator": [28.0, "28 days"],
+      "freezer": ""
+    },
+    "soda": {
+      "item": "soda",
+      "pantry": "none",
+      "refrigerator": "none",
+      "freezer": ""
+    },
+    "salmon": {
+      "item": "salmon",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "peas": {
+      "item": "peas",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": ""
+    },
+    "milk dehydrated": {
+      "item": "milk dehydrated",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "rice wine vinegar": {
+      "item": "rice wine vinegar",
+      "pantry": [1095.0, "3.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cucumber": {
+      "item": "cucumber",
+      "pantry": [2.0, "2 days"],
+      "refrigerator": [7.0, "7 days"],
+      "freezer": [300.0, "300 days"]
+    },
+    "fresh beans": {
+      "item": "fresh beans",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": ""
+    },
+    "lemon": {
+      "item": "lemon",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cabbage": {
+      "item": "cabbage",
+      "pantry": "",
+      "refrigerator": [10.0, "10 days"],
+      "freezer": ""
+    },
+    "broccoli": {
+      "item": "broccoli",
+      "pantry": "",
+      "refrigerator": [10.0, "10 days"],
+      "freezer": ""
+    },
+    "cocoa": {
+      "item": "cocoa",
+      "pantry": [730.0, "2.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "boxed soup": {
+      "item": "boxed soup",
+      "pantry": [360.0, "360 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "poultry": {
+      "item": "poultry",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "puddings": {
+      "item": "puddings",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "radishes": {
+      "item": "radishes",
+      "pantry": "",
+      "refrigerator": [10.0, "10 days"],
+      "freezer": ""
+    },
+    "beets": {
+      "item": "beets",
+      "pantry": [2.0, "2 days"],
+      "refrigerator": [10.0, "10 days"],
+      "freezer": ""
+    },
+    "sour creams": {
+      "item": "sour creams",
+      "pantry": "",
+      "refrigerator": [28.0, "28 days"],
+      "freezer": ""
+    },
+    "prawns": {
+      "item": "prawns",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "soy sauce": {
+      "item": "soy sauce",
+      "pantry": [270.0, "270 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "farro": {
+      "item": "farro",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "veal": {
+      "item": "veal",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "hot dogs": {
+      "item": "hot dogs",
+      "pantry": "",
+      "refrigerator": [14.0, "14 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "berries": {
+      "item": "berries",
+      "pantry": [2.0, "2 days"],
+      "refrigerator": [14.0, "14 days"],
+      "freezer": [365.0, "(1.0, 1) years"]
+    },
+    "oysters": {
+      "item": "oysters",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "wine": {
+      "item": "wine",
+      "pantry": [1095.0, "3.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    }
+  },
+
+  "cooked": {
+    "pork": {
+      "item": "pork",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "bacon": {
+      "item": "bacon",
+      "pantry": "",
+      "refrigerator": [8.0, "8 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "mushrooms": {
+      "item": "mushrooms",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [300.0, "300 days"]
+    },
+    "duck": {
+      "item": "duck",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "chicken": {
+      "item": "chicken",
+      "pantry": "",
+      "refrigerator": [3.0, "3 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "lamb": {
+      "item": "lamb",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "sausage": {
+      "item": "sausage",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "ham": {
+      "item": "ham",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "beef": {
+      "item": "beef",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "chops": {
+      "item": "chops",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "beans": {
+      "item": "beans",
+      "pantry": [1.0, "1 days"],
+      "refrigerator": [6.0, "6 days"],
+      "freezer": ""
+    },
+    "rice": {
+      "item": "rice",
+      "pantry": "",
+      "refrigerator": [5.0, "5 days"],
+      "freezer": [150.0, "150 days"]
+    },
+    "turkey": {
+      "item": "turkey",
+      "pantry": "",
+      "refrigerator": [3.0, "3 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "stews": {
+      "item": "stews",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "corn": {
+      "item": "corn",
+      "pantry": [300.0, "300 days"],
+      "refrigerator": [4.0, "4 days"],
+      "freezer": ""
+    },
+    "chicken tenders": {
+      "item": "chicken tenders",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "pasta": {
+      "item": "pasta",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": ""
+    },
+    "poultry": {
+      "item": "poultry",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "meat": {
+      "item": "meat",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "soups": {
+      "item": "soups",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [75.0, "75 days"]
+    },
+    "veal": {
+      "item": "veal",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "steak": {
+      "item": "steak",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [120.0, "120 days"]
+    }
+  },
+
+  "opened": {
+    "fake meat": {
+      "item": "fake meat",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [150.0, "150 days"]
+    },
+    "nuts": {
+      "item": "nuts",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "bacon": {
+      "item": "bacon",
+      "pantry": "",
+      "refrigerator": [5.0, "5 days"],
+      "freezer": [120.0, "120 days"]
+    },
+    "cocoa": {
+      "item": "cocoa",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "meat substitute": {
+      "item": "meat substitute",
+      "pantry": "",
+      "refrigerator": [2.0, "2 days"],
+      "freezer": [150.0, "150 days"]
+    },
+    "almonds": {
+      "item": "almonds",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "juice juice bottled": {
+      "item": "juice juice bottled",
+      "pantry": [2.0, "2 days"],
+      "refrigerator": [14.0, "14 days"],
+      "freezer": ""
+    },
+    "onions": {
+      "item": "onions",
+      "pantry": "",
+      "refrigerator": [7.0, "7 days"],
+      "freezer": ""
+    },
+    "milk": {
+      "item": "milk",
+      "pantry": "",
+      "refrigerator": [6.0, "6 days"],
+      "freezer": ""
+    },
+    "jelly ": {
+      "item": "jelly ",
+      "pantry": "",
+      "refrigerator": [180.0, "180 days"],
+      "freezer": ""
+    },
+    "olives": {
+      "item": "olives",
+      "pantry": "",
+      "refrigerator": [90.0, "90 days"],
+      "freezer": ""
+    },
+    "coffee ground ": {
+      "item": "coffee ground ",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": [14.0, "14 days"],
+      "freezer": ""
+    },
+    "worcestershire sauce": {
+      "item": "worcestershire sauce",
+      "pantry": "",
+      "refrigerator": [120.0, "120 days"],
+      "freezer": ""
+    },
+    "cheese cream": {
+      "item": "cheese cream",
+      "pantry": "",
+      "refrigerator": [14.0, "14 days"],
+      "freezer": ""
+    },
+    "pistachio nuts": {
+      "item": "pistachio nuts",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cashews": {
+      "item": "cashews",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "peanuts": {
+      "item": "peanuts",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "steak sauce": {
+      "item": "steak sauce",
+      "pantry": "",
+      "refrigerator": [120.0, "120 days"],
+      "freezer": ""
+    },
+    "tomato sauce": {
+      "item": "tomato sauce",
+      "pantry": "",
+      "refrigerator": [5.0, "5 days"],
+      "freezer": ""
+    },
+    "cottage cheese": {
+      "item": "cottage cheese",
+      "pantry": "",
+      "refrigerator": [14.0, "14 days"],
+      "freezer": ""
+    },
+    "mustard": {
+      "item": "mustard",
+      "pantry": "",
+      "refrigerator": [210.0, "210 days"],
+      "freezer": ""
+    },
+    "sausage": {
+      "item": "sausage",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "coffee instant ": {
+      "item": "coffee instant ",
+      "pantry": [90.0, "90 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "puddings": {
+      "item": "puddings",
+      "pantry": "",
+      "refrigerator": [7.0, "7 days"],
+      "freezer": ""
+    },
+    "walnuts": {
+      "item": "walnuts",
+      "pantry": [14.0, "14 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "rice wine vinegar": {
+      "item": "rice wine vinegar",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "white wine vinegar": {
+      "item": "white wine vinegar",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "molasses": {
+      "item": "molasses",
+      "pantry": [180.0, "180 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "cereal": {
+      "item": "cereal",
+      "pantry": [75.0, "75 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "maraschino cherries": {
+      "item": "maraschino cherries",
+      "pantry": [180.0, "180 days"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "balsamic vinegar": {
+      "item": "balsamic vinegar",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "barbecue sauce": {
+      "item": "barbecue sauce",
+      "pantry": "",
+      "refrigerator": [120.0, "120 days"],
+      "freezer": ""
+    },
+    "ketchup": {
+      "item": "ketchup",
+      "pantry": [30.0, "30 days"],
+      "refrigerator": [150.0, "150 days"],
+      "freezer": ""
+    },
+    "vinegar": {
+      "item": "vinegar",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "red wine vinegar": {
+      "item": "red wine vinegar",
+      "pantry": [365.0, "1.0 years"],
+      "refrigerator": "",
+      "freezer": ""
+    },
+    "salami": {
+      "item": "salami",
+      "pantry": "",
+      "refrigerator": [6.0, "6 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "tuna canned": {
+      "item": "tuna canned",
+      "pantry": "",
+      "refrigerator": [4.0, "4 days"],
+      "freezer": ""
+    },
+    "soy sauce": {
+      "item": "soy sauce",
+      "pantry": "",
+      "refrigerator": [90.0, "90 days"],
+      "freezer": ""
+    },
+    "fruit juice canned": {
+      "item": "fruit juice canned",
+      "pantry": [2.0, "2 days"],
+      "refrigerator": [14.0, "14 days"],
+      "freezer": ""
+    },
+    "hot dogs": {
+      "item": "hot dogs",
+      "pantry": "",
+      "refrigerator": [7.0, "7 days"],
+      "freezer": [45.0, "45 days"]
+    },
+    "soda": {
+      "item": "soda",
+      "pantry": [120.0, "120 days"],
+      "refrigerator": [120.0, "120 days"],
+      "freezer": ""
+    },
+    "peanut butter": {
+      "item": "peanut butter",
+      "pantry": "",
+      "refrigerator": [75.0, "75 days"],
+      "freezer": ""
+    },
+    "wine": {
+      "item": "wine",
+      "pantry": [7.0, "7 days"],
+      "refrigerator": "",
+      "freezer": ""
+    }
+  }
+}
